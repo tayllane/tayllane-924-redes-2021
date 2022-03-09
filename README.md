@@ -51,14 +51,14 @@ OBS: na tabela acima estão os nameservers 1 e 2, DNS Master e o Slave, respecti
 Tabela 2: Nomes FQDN dos hosts
 
 
-|      Apelido      |               NOME                                      |
-|:------------------|:--------------------------------------------------------|
-| gateway (gw)      | gw.tayllanewildimylla924.labredes.ifalarapiraca.local   |
-| nameserver1 (ns1) | ns1.tayllanewildimylla924.labredes.ifalarapiraca.local  |
-| nameserver2 (ns2) | ns2.tayllanewildimylla924.labredes.ifalarapiraca.local  |
-| vm da dupla (vm2) | vm2.tayllanewildimylla924.labredes.ifalarapiraca.local  |
-| vm1               | ns1.tayllanewildimylla924.labredes.ifalarapiraca.local  |
-| samba             | ns1.tayllnewildimylla924.labredes.ifalarapiraca.local   |
+|      Apelido      |               NOME                                     |
+|:------------------|:-------------------------------------------------------|
+| gateway (gw)      | gw.tayllanewildimyla924.labredes.ifalarapiraca.local   |
+| nameserver1 (ns1) | ns1.tayllanewildimyla924.labredes.ifalarapiraca.local  |
+| nameserver2 (ns2) | ns2.tayllanewildimyla924.labredes.ifalarapiraca.local  |
+| vm da dupla (vm2) | vm2.tayllanewildimyla924.labredes.ifalarapiraca.local  |
+| vm1               | ns1.tayllanewildimyla924.labredes.ifalarapiraca.local  |
+| samba             | ns1.tayllnewildimyla924.labredes.ifalarapiraca.local   |
 ```
 ### Configuração do SAMBA
 
