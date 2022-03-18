@@ -3,8 +3,11 @@
 ## Dados da equipe e do professor
 
 ```
-Dupla: Tayllane Barbosa Santos
-       Wildimyla Karolayne Dantas de Oliveira Leite
+Equipe: 
+Lívia Maria Figueiroa Dos Santos
+Silvana Silva Farias 
+Matheus de Melo Santos
+Tayllane Barbosa Santos       
 Turma: 924
 Professor: Alaelson Jatobá
 ```
